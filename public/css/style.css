@@ -1,0 +1,18 @@
+.media  {
+    background-color: white;
+    height: 300px;
+}
+
+.media img {
+    width: 100px;
+    max-height: 200px;
+}
+
+/* .edit_btn {
+    position: relative;
+    bottom: 10px;
+} */
+.comment {
+    border: 1px solid rgb(92, 134, 160);
+    background-color: white;
+}
